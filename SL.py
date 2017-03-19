@@ -7,7 +7,7 @@ headers = [
     "Accept-language: en-US,en,q=0.5"
 ]
 
-ip = "192.168.1.253"
+ip = "x.x.x.x"
 numsocks = 5000
 
 for i in range(numsocks):
